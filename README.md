@@ -56,7 +56,7 @@ Previous_week_Revenue = CALCULATE(
  'public cc_detail'[week_num2] = MAX('public cc_detail'[week_num2])-1
  )
 )
-
+```
 
 ## Insight: Credit Card Transaction Report - Week 52, Dec 24, 2024
 
