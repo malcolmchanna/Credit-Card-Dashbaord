@@ -10,7 +10,7 @@
 )
 
 #
-![Credit CardFinancial Dashboard Transaction](Credit Card Financial Transaction Dashboard.png)  
+![Credit CardFinancial Dashboard Transaction](CreditCardFinancialTransactionDashboard.png)  
 ![Credit Card Financial Dashboard Customer](Credit_CardFinancialDashboard_Customer.png)  
 #
 
