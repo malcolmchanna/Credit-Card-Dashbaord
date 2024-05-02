@@ -127,4 +127,12 @@ Previous_week_Revenue = CALCULATE(
 - Male: $373,397
 
 
+#
+#### Don't forget to give a star to this project because it motivates me, and please follow me on [LinkedIn](https://www.linkedin.com/in/muzamil-channa-a2216a175/). Also, please consider me for any internship or entry-level data analyst role. I need a job or internship even though it's free or paid. Thanks in Advance.
+
+- Created & Presented by – Muzamil Channa @ Aspiring Data Analyst
+- Date: 2/05/2024
+- Place: Pakistan, Karachi
+
+
 
