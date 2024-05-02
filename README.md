@@ -9,12 +9,6 @@
 - [Dashboard & Insights](#Dashboard-&-Insights
 )
 
-#
-![Credit CardFinancial Dashboard Transaction](CreditCardFinancialTransactionDashboard.png)  
-![Credit Card Financial Dashboard Customer](Credit_CardFinancialDashboard_Customer.png)  
-#
-
-
 ## 1. Project Objective
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 
@@ -57,8 +51,11 @@ Previous_week_Revenue = CALCULATE(
  )
 )
 ```
-# Project Insights
-
+# 4. Dashboard & Insights
+#
+![Credit CardFinancial Dashboard Transaction](CreditCardFinancialTransactionDashboard.png)  
+![Credit Card Financial Dashboard Customer](Credit_CardFinancialDashboard_Customer.png)  
+#
 ## Overview YTD
 - overall revenue is 55M 
 - Total interest is 7.84M 
