@@ -57,15 +57,26 @@ Previous_week_Revenue = CALCULATE(
  )
 )
 ```
+#Project Insights
 
-## Insight: Credit Card Transaction Report - Week 52, Dec 24, 2024
+## Overview YTD
+- overall revenue is 55M 
+- Total interest is 7.84M 
+- Total transaction amount is 656k
+- Total income: 576M
+- Custormer satification score 3.19 
+- Male customers are contributing more in revenue 30M, female 25M 
+- Blue & Silver credit card are contributing to 93.31% of overall transactions
+- TX, NY & CA is contributing to 94.18% 
 
-### Total Revenue: $933,000  
-### Total Transaction Count: 11,000
+## Insight: Credit Card Transaction Report - Week 52, (Dec 24)
+
+### Total Revenue: 933k   
+### Total Transaction Count: 11k
 
 #### Key Insights:
 
-1. **Highest Revenue by Card Category (Blue):** $773,285
+1. **Highest Revenue by Card Category (Blue):** $77285
 2. **Highest Revenue by Chip Usage:** $690,320
 3. **Highest Revenue by Education (Graduate):** $383,562
 4. **Highest Revenue by Customer Occupation:** $284,609
@@ -73,16 +84,16 @@ Previous_week_Revenue = CALCULATE(
 
 ---
 
-## Credit Card Customer Report - Week 52, Dec 24, 2024
+## Credit Card Customer Report - Week 52, (Dec 24)
 
-### Total Amount Spent: $749,000  
-### Total Interest Paid: $137,710  
-### Total Income: $10,000,000  
+### Total Amount Spent: 749k
+### Total Interest Paid: 137.71K  
+### Total Income: 10M
 ### Customer Satisfaction Score: 4.21
 
 #### Revenue Breakdown:
-- Male: $558,000  
-- Female: $375,000
+- Male: 558K    
+- Female: 375k
 
 #### Highest Revenue by Age Group:
 - 40 - 50
@@ -117,4 +128,6 @@ Previous_week_Revenue = CALCULATE(
 #### Highest Revenue by Income Group:
 - Female: $114,740
 - Male: $373,397
+
+
 
